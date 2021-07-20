@@ -1,1 +1,1 @@
-# global-tracker
+# Global Equity Performance Tracker
